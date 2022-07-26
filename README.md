@@ -2,6 +2,6 @@
 
 ## Demo
 
-### Star Sky dynamic background for dark theme
+### Star
 
 ![Star Sky dynamic background](assets/rsp-all.png)
